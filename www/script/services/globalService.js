@@ -17,7 +17,7 @@ define([], function() {
         },
 
         getRootURL: function(){
-          return "http://localhost:3000/api";
+          return "http://humminglive.lakesidelab.com/api";
         },
 
         getCurrentUser: function(){
