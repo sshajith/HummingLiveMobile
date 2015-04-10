@@ -1,0 +1,38 @@
+table{
+	
+}
+
+td {
+	border: 2px #eee solid;
+	padding: 10px;
+}
+
+td.key {
+	width: 40%;
+}
+
+td.value {
+	width: 60%;
+}
+
+table caption h3 {
+	float: left;
+	margin-left:10px;
+}
+
+.list-block {
+	
+	margin-bottom: 60px;
+}
+
+.searchbar-cancel {
+	margin-right:-52px;
+}
+
+.setting-page .item-content{
+	margin-top: 0 !important;
+}
+
+.setting-page.list-block .item-inner:after {
+	content: none !important;
+}

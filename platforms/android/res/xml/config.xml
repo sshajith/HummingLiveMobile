@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.hiapp.hiapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <name>HummingLive</name>
+    <description>
+        A social market place connecting creative professionals to opportunities
+    </description>
+    <author email="henry.jacob@lakesidelab.com" href="http://lakesidelab.com">
+        Lakesidelab
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />
+</widget>
